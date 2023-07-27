@@ -3,3 +3,4 @@ coverage.html
 node_modules
 lib/
 lib-cov/
+*.tgz

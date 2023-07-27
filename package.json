@@ -1,6 +1,6 @@
 {
   "name": "a2r-osc"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "description": "An OSC implementation for node.js and the browser"
   , "keywords": ["a2r", "addicted2random", "osc"]
   , "author": "Alexander Jentz"
